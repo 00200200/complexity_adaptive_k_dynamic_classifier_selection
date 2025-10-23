@@ -10,6 +10,7 @@ dependencies = [
     "liac-arff>=2.5.0",
     "numpy<2.0,>=1.24",
     "pandas>=2.0",
+    "problexity>=0.5.11",
     "pycol-complexity>=1.0.0",
     "scikit-learn<1.4,>=1.3",
     "seaborn>=0.13.2",
