@@ -34,4 +34,4 @@ uv sync
 
 ## Usage
 
-Run individual experiments from the `src/experiments/` directory. Each script is self-contained and generates results in the `generated_datasets/` folder.
+Run individual experiments from the `src/experiments/` directory. Each script is self-contained and generates results in the `generated_datasets/` or `eperiment/results` folder.
