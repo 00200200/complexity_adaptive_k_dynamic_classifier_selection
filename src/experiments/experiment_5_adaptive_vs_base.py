@@ -252,12 +252,14 @@ def main(algorithms=None):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Experiment 5: Adaptive vs Base DCS")
+    parser = argparse.ArgumentParser(
+        description="Experiment 5: Adaptive vs Base PyCol-Complexity"
+    )
     parser.add_argument(
         "--algorithms",
         nargs="+",
         choices=list(ALGORITHM_CONFIG_EXP3.keys()),
-        help="Algorytmy do przetestowania (domyślnie: wszystkie)",
+        help="Algorithms to test (default: all)",
     )
 
     args = parser.parse_args()
