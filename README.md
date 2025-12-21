@@ -4,7 +4,7 @@ Research implementation exploring the relationship between dataset complexity an
 
 ## Overview
 
-This project investigates how dataset complexity metrics can be used to adaptively determine the k parameter in DCS techniques, potentially improving classification performance on heterogeneous datasets.
+This project investigates how dataset complexity metrics can be used to adaptively determine the k parameter in DCS/DES techniques, potentially improving classification performance on heterogeneous datasets.
 
 ## Project Structure
 
